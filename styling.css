@@ -1,0 +1,90 @@
+.nav {
+	background-color: ;
+	margin-top:-10;
+	margin-left: -12px;
+	padding-right: 25px;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	display: -webkit-flex;
+	display: flex;
+}
+
+
+
+.wrapper	{
+	display: flex;
+	width: 90%;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-top:	25px;
+	margin-bottom: 25px;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.article1	{
+	background-color: #6495ED;
+	width: 35%;
+	height: 30%;
+	font-family: "Arial";
+	font-size: 15px;
+	color: grey;
+	line-height: 110%;
+	padding: 15px;
+	border: 10px;
+	border-radius: 10px;
+}
+
+.article2	{
+	background-color: black;
+	width: 35%;
+	height: 30%;
+	font-family: "Times New Roman";
+	font-size: 30px;
+	color: pink;
+	line-height: 120%;
+	padding: 30px;
+	border: 12px;
+	border-radius: 12px;
+}
+
+.article3	{
+	background-color: hotpink;
+	width: 35%;
+	height: 30%;
+	font-family: "Courier";
+	font-size: 20px;
+	color: darkblue;
+	line-height: 130%;
+	padding: 20px;
+	border: 2px;
+	border-radius: 2px;
+}
+
+.article4	{
+	background-color: #7FFFD4;
+	width: 35%;
+	height: 30%;
+	font-family: "Georgia";
+	font-size: 10px;
+	color: white;
+	line-height: 140%;
+	padding: 10px;
+	border: 10px;
+	border-radius: 10px;
+}
+
+.article5 {
+	background-color: #2F4F4F;
+	width: 35%;
+	height: 30%;
+	font-family: "BookmanS";
+	font-size: 25px;
+	color: yellow;
+	line-height: 150%;
+	padding: 25px;
+	border: 7px;
+	border-radius: 7px;
+}
